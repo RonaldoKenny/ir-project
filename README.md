@@ -5,3 +5,5 @@ This is a repository for Information Retrieval Project, with the team of:
 - Limas Jaya Akeh - 2201763240
 - Rio Nagano - 2201767232
 - Ronaldo Kenny Chandra - 2201763234
+
+test waa
