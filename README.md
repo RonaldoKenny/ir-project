@@ -7,7 +7,7 @@ This is a repository for Information Retrieval Project, with the team of:
 - Ronaldo Kenny Chandra - 2201763234
 
 Roles:
-Dataset         : Limas, William
-Preprocessing   : Ronaldo, Rio
-Model           : Andreas, Rio
-Report          : Ronaldo, Andreas, Rio, Limas, William
+- Dataset         : Limas, William
+- Preprocessing   : Ronaldo, Rio
+- Model           : Andreas, Rio
+- Report          : Ronaldo, Andreas, Rio, Limas, William
